@@ -27,6 +27,7 @@
         <dependency>
             <groupId>com.huawei.paas.cse</groupId>
             <artifactId>cse-solution-service-engine</artifactId>
+            <version>${cse.version}</version>
         </dependency>
     </dependencies>
     <build>
